@@ -1,0 +1,43 @@
+ 
+
+CONICORUM LIBER IV. 39
+
+nam si fieri potest, coni sectio ΔΑΒΓ cum arcu
+circuli EABF concurrat, eorumque communis sit pars
+eadem ΑΒΓ, non communes autem AA, AE, et in
+iis sumatur punctum Θ, duca-
+turque ΘΑ, per punctum au-
+tem quodlibet E rectae ΑΘ
+parallela ducatur A ΕΓ, et
+ΑΘ in H in duas partes
+aequales secetur, per H autem
+diametrus ducatur Β Η Ζ. ita-
+que recta per Β rectae Α Θ
+parallela ducta utramque
+sectionem continget [I, 32],
+et, rectae Δ ΕΓ parallela erit
+[Eucl. I, 30], eritque in altera
+sectione Δ Ζ =v ZF, in altera EZ = ΖΓ [1, 46—47J.
+quare etiam ΔΖ -- ΖΕ, quod fieri non potest.
+
+ 
+
+XXV.
+
+Coni sectio coni sectionem uel arcum circuli non
+secat in pluribus punctis quam quattuor.
+
+nam si fieri potest, in quinque secet A, Β, Γ, Δ, Ε,
+et puncta concursus A, B, Γ, Δ, Ε deinceps sint po-
+
+} sita nullum inter se praetermittentia, et ducantur
+
+AB, ΓΔ producanturque3 eae igitur in parabola et
+hyperbola extra sectiones concurrent [II, 24—25]. con-
+currant in A, sitque AA ε ΛΒ == AO ε ΟΒ ct
+
+AA τ ΛΓ -- ΛΠ 2 Π Γ.
+itaque recta a Π ad 0 ducta in utramque partem
+producta cum sectione concurret, et rectae a punctis
+concursus ad A ductae sectiones contingent [prop. IX].
+

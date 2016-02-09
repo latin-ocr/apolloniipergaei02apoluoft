@@ -1,0 +1,46 @@
+CONICORUM LIBER IV. 9
+
+ΙΙ.
+
+Haec quidem communiter in omnibus sectionibus
+demonstrantur, in hyperbola autem sola hocce:
+
+si AB contingit, ΔΓ autem in duobus punctis E, Γ
+secat, et puncta E‚F punctum contactus B continent, et
+÷ punctum A intra angulum ab asymptotis comprehen-
+sum positum est, demonstratio similiter conficietur3
+nam fieri potest, ut a A puncto aliam rectam con·
+tingentem AA ducamus et reliquam demonstrationem
+similiter conficiamus,
+
+ 
+
+III.
+
+Iisdem positis puncta E, Γ punctum contactus B
+inter se ne contineant,
+
+B punctum autem A intra
+
+angulum ab asymptotis
+comprehensum positum
+sit. itaque fieri potest,
+A ut a A aliam contin-
+gentem ducamus AA et
+reliqua similiter demon-
+
+stremus.
+
+Z
+A Γ
+
+IV.
+
+Iisdem positis si puncta concursus Ε, Γ punctum
+contactus B continent, A autem punctum in angulo
+positum est, qui angulo ab asymptotis comprehenso
+deinceps positus est, recta a puncto contactus ad
+punctum diuisionis ducta cum sectione opposita oon-
+curret, et recta a puncto concursus ducta oppositam
+continget.
+

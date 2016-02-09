@@ -1,0 +1,49 @@
+CONIGORUM LIBER 1v. 77
+
+et ducta AA producatur3 secabit igitur sectiones in
+' alio atque alio puncto secet in N, M; itaque rectae
+s a Z ad N, M ductae sectiones contingent [prop. 1],
+
+et eodem modO, quo antea, erit [III‚ 393 Eucl. V, 16]
+propter alteram sectionem ΞΔ :A Z = ΞΚ : KZ, prop-
+
+* ter alteram autem ΞΛ : AZ = ΞΗ : HZ; quod fieri
+1 non potest. ergo sectio opposita non concurret.
+
+XLIX.
+
+Si hyperbola alteram oppositarum contingens in
+alio quoque puncto cum ea concurrit, sectio ei op-
+
+posita cum altera oppositarum in pluribus punctis
+non concurret quam in uno.
+
+sint oppositae AjBF, EZH, et hyperbola ΔΑΓ in
+A contingat, in Γ autem secet, sitque ΕΖΘ sectioni
+
+, ΔΑΓ opposita. dioc, eam cum altera oppositarum
+
+ 
+
+in pluribus punctis non concurrere quam in uno,
+⁴ nam · si fieri potest, concurrat in duobus E, Z,
+
+ducaturque EZ, et per A sectiones contingens duca-
+
+tur AK.
+
+aut igitur parallelae sunt aut non parallelae.
+prius parallelae sint, et diametrus rectam EZ in
+
+duas partes aequales diuidens ducatur3 ea igitur per A
+
+ueniet et diametrus erit sectionum coniugatarum [IL 34].
+per Γ rectis AK, ΕΖ parallela ducatur ΓΛΛΒ; ea
+igitur sectiones in alio atque alio puncto secabit. erit
+igitur [I def. 4] in altera ΓΛ = A A, in reliqua autem
+ΓΛ -- ΛΒ. hoc uero fieri non potest.
+
+AK, ΕΖ igitur parallelae ne sint, sed in K con-
+currant, et ΓΔ rectae ΑΚ parallela ducta cum EZ
+in N concurrat, AB autem rectam EZ in duas par-
+

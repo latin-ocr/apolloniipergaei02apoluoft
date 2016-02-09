@@ -1,0 +1,43 @@
+CONICORUM LIBER IV. 33
+
+opposita concurrere, rectasque a punctis concursus ad
+A ductas sectiones contingere. ,
+ducantur enim a A utramque sectionem contin-
+gentes AE, A Z; itaque recta per E, Z ducta per K, H
+ueniet. nam si minus, aut per alterum eorum ueniet
+aut per neutrum, rursusque eodem modo absurdum
+
+concludemus [HL 39].
+
+XX.
+
+Sin punctum sumptum in alterutra asymptotarum
+positum est, et reliqua eadem fiunt, recta per terminos
+excessuum ducta parallela erit asymptotae, in qua
+punctum positum est, et recta a puncto ducta ad con-
+cursum sectionis rectaeque per terminos ductae sectio-
+nem continget.
+
+sint oppositae A, B, et punctum A in alterutra
+asymptotarum sit, reliquaque eadem fiant. dioc, rectam
+per K, H ductam cum sectione concurrere, rectamque
+a puncto concursus ad A ductam sectionem contingere.
+
+a A contingens ducatur A Z, et a Z recta ducatur
+asymptotae parallela, in qua est A3 ea igitur per
+K, H ueniet. nam si mium, aut per alterum eorum
+
+ueniet aut per neutrum, et eadem euenient absurda,
+‚ quae antea [HL 36]. ⁸
+
+XXI.
+Rursus sectiones oppositae sint A, B, et A punc-
+tum in alterutra asymptotarum sit, et A ΒΚ alteri a-
+
+symptotae parallela cum sectione in uno puncto solo
+
+Β concurrat, ΓΛΘ autem cum utraque sectione con-
+currat, sitque ΓΔ : ΛΘ = PH: ΗΘ et BK = AB.
+
+Apollonius, ed. Heiberg. ΙΙ. 3
+

@@ -1,0 +1,44 @@
+ 
+
+EUTOCII COMMENTARIA IN CONICA. 261
+
+Δ, Ζ cadere, sicut apud Apollonium est. sin H
+extra E sumitur, et recta ab eo rectae EZ parallela
+ducta inter Z, Γ cadit, punctum Θ quinque casus
+efficit3 aut enim inter A, Β eadit aut in B aut inter
+Β, Ζ aut in Z aut inter Z, Γ. sin recta per H
+ordinatae parallela dueta in Γ centrum cadit, rursus
+punctum Θ quinque alios casus efficiet eodem mod03
+et hic animaduertendum, triangulum a rectis EA, ΕΖ
+rectis parallelis effectum aequalem fieri triangulo A B Γ,
+nam quoniam est EZ2 : ΗΓ2 = EAZ : ΗΘΓ [Eucl.
+
+VI, 19]; nam similes sunt3 et
+ΕΖ2 : ΗΓ2 = BZ >< ZA : ΒΓ>< ΓΑ [prop. XXI]
+= BZ >< ZA : 31⁷2, erit
+EA22HQF=BZ><ZA:BF2.
+demonstrauimus autem, esse
+ΒΖ >< ZA ι ΒΓ2 -- ABZE: Λ-ΒΓ;
+
+quare etiam EAZ : ΗΘΓ = ABZE: ΛΒΓ. et permu-
+tando.¹) uerum hos casus 2) aliter quoque demonstrare
+
+A A possumus dicentes, haec
+,Ι in scholio ad prop. XLI
+Aagd* [supra p. 252] de paralle-
+A κθ ‘ logrammis demonstrata
+
+esse, quae his triangulis
+duplo maiora sunt.
+sin recta per H rectae ΕΖ parallela ducta inter
+Γ, Α cadit, producetur, donec ΓΕ cum ea concurrat,
+
+ 
+
+ 
+
+1) Et ΕΔΖ -= ABZE, ut supra demonstrauimus.
+2) Sc. ubi recta per H ducta in centrum ellipsis cadit.
+
+Fig. in W parum recte descripta est.
+

@@ -1,0 +1,42 @@
+EUTocn COMMENTARIA IN comoA. 191
+
+adparet autem, rectam circumactam in circum-
+agendo maiorem et minorem fieri, in quibusdam autem
+
+positionibus etiam aequalem ad diuersa puncta circuli
+
+ductam. quod sic demonstratur:
+si a uertice coni obliqui ad basim rectae ducuntur,
+omnium rectarum a uertice ad basim ductarum una
+
+’ minima est, una maxima, duaeque solae aequales ad
+
+utramque partem minimae et
+‚s maximae, semper autem pro-
+s pior minimae minor est re-
+motiore. sit conus obliquus,
+cuius basis sit circulus ΑΒΓ,
+uertex autem A punctum. et
+quoniam recta a uertice coni
+obliqui ad planum subiacens
+perpendicularis ducta aut in
+ambitum circuli ΑΒΓ ΖΗ
+ueniet aut extra aut intra,
+primum ad ambitum adcidat
+
+ 
+
+,- ut in prima figura Δ Ε, sumaturque centrum circuli et
+sit K, ab E autem ad K ducatur EK producaturque ad Β,
+
+et dueatur BA, sumantur autem ad utramque partem
+puncti E duo arcus aequales ΕΖ, ΕΗ et ad utramque
+partem puncti Β aequales ΑΒ, ΒΓ, ducanturque ΕΖ,
+ΕΗ, ΔΖ, ΔΙ-Ι, ΕΑ, ΕΓ, ΑΒ, ΒΓ, ΔΑ, ΔΓ. quoniam
+igitur EZ = EH [Eucl. ΙΙΙ, 29] (nam sub aequalibus
+arcubus subtendunt), communis autem et perpendicu-
+laris ΔΕ, erit AZ = ΔΗ [Eucl. Ι, 4]. rursus quon—
+iam arcus AB arcui ΒΓ aequalis est et ΒΕ diametrus,
+reliquus arcus ΕΖΓ reliquo ΕΗ A aequalis est3 quare
+etiam A E=EP [Eucl. ΙΙΙ, 29]. ΕΔ autem communis
+

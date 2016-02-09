@@ -1,0 +1,44 @@
+Ι
+
+l
+
+EUToon COMMENTARIA IN coch. 183
+
+manifestum igitur, esse Γ mediam proportionalem
+inter E ·†‘ A et A, H autem inter A Z et ZB.1) et centro
+Z radio autem H describatur circulus ΚΘ. :manifestum
+igitur, arcum ΚΘ rectam AB secare3 nam recta H
+media proportionalis est inter ΑΖ, ΖΒ. iam in am-
+bitu punctum aliquod sumatur Θ, ducanturque ΘΑ,
+ΘΒ, ΘΖ. itaque &Z=H; quare A222o= ΖΘε ΖΒ.
+et circum eundem angulum ΘΖΒ latera proportionalia
+sunt3 itaque trianguli Λ ΖΘ, ΘΒΖ Similes sunt et
+L ΖΘΒ -- ΘΑΒ [Eucl. VI, 6]. iam per Β rectae ΑΘ
+parallela ducatur BA. quoniam igitur est
+AZ:Z&=Z(›9:ZB‚
+erit etiam [Eucl. V def. 9] AZ:ZB=AZ2:Z(›92.
+uerum ΑΖιΖΒε--ΑΘεΒΑ [Eucl. VI, 4]; quare etiam
+ΑΖ2 : ΖΘ2 -- ΑΘ : BA. rursus quoniam l„ ΒΘΖ = ΘΑΒ
+et etiam l, ΑΘΒ =-- ΘΒΛ [Eucl. I, 29] (alterni enim
+sunt), etiam reliquus reliquo aequalis est, et triangulus
+ΑΘΒ triangulo ΒΘΑ similis est et latera aequales
+angulos comprehendentia proportionalia [Eucl. VI, 4]
+ΑΘεΘΒ = ΘΒεΒΛ; et ΑΘῗεΘΒ2 ΞΑΘεΒΛ [Eucl.V
+def. 9]. erat autem etiam ΑΘ : BA = AZ2 : Z&².
+quare
+AZ22ZQ‘J2 = ΑΘ2εΘΒ2 et AZ τ ΖΘΞ ΑΘεΘΒ.
+
+sed AZ:Z&)= Ε-Ι- ΛεΓ-- F: A [u. not.]. quare
+etiam P: A = ΑΘ : ΘΒ. iam eodem modo de-
+monstrabimUS‚ omnes rectas a punctis A, Β ad
+
+ 
+
+1) EratE:AB=A:BZA=F:H=E—}—A:AZ. itaque
+E÷A2F=AZ2H=P2A=H:BZ.
+
+ 
+
+19. ἐστίν] ἐστί p. ἐστι] ἐστιν W. 20. ΒΘΑ] Β 6 corr. p.
+25. καί] seq. lacuna 1 litt. p, καὶ ἡ W.
+

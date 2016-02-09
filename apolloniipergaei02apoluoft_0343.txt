@@ -1,0 +1,47 @@
+EUTOGII COMMENTARIA IN CONIGA. 251
+
+sunt, est AN: EF= AA : AE, EF: ΚΒ -- EA: AB
+[Eucl. I‚29; VI, 4]‚ ex aequo erit AN :KB = A A ε AB3
+
+quare AN2 : AN>< KB = AA2 ε AA >< AB. est
+autem [Eucl. VI, 4] ΕΓ2. · ΑΝ2 = ΕΔ2. AA23 ex
+aequo igitur EF2: AN>< KB— = ΕΔ2· AA >< AB3
+ete contrario KB >< ΑΝ. ΕΓ2 = BA >< AA ε ΕΔ2.
+
+Ad p r o p. XXXVII.
+
+Per haec theoremata1) manifestum est, quo modo
+fieri possit, ut per datum punctum diametri2) et per
+uerticem 3) sectionis recta contingens ducatur.
+
+Ad prop. XXXVIII.
+
+In nonnullis codicibus haec propositio de sola
+hyperbola demonstrata reperitur, hic autem uniuer-
+saliter demonstrata est3 nam eadem etiam in reliquis
+sectionibus adcidunt. et Apollonio quoque non modo
+
+,ἲ ¹hyperbola, sed etiam ellipsis alteram diametrum
+t habere uidetur, sicut in praecedentibus saepius ab eo
+’ audiuimus
+
+et in ellipsi casum non habet, in hyperbola autem
+tres3 nam punctum Z, in quo recta contingens cum altera
+diametro concurrit, aut infra A positum est aut in A aut
+
+v supra A, et ea de causa Θ et ipsum tres habebit positiones,
+
+ 
+
+1) P1r.0pp XXXVII—V1H3 cfr. Ι p 118, 1 sq.
+
+2) Per aequationem ZH >< H Θ Η Γ unde datis rectis
+ZH, ΗΓ inueniri potest ΗΘ et ita E.
+
+3) Per aequationem ΗΘ >< ΘΖε ΘΕΞ latus rectum: trans-
+uersum, unde dato uertice E et ideo datis ΕΘ et ΗΘ inueniri
+potest ΘΖ et punctum Z.
+
+10. ΒΔΑ] Α e corr. p 17. zoob] e corr. p. 25. κατω-
+τέρωι W, ut saepius.
+

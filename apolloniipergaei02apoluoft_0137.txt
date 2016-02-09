@@ -1,0 +1,47 @@
+OONICORUM LIBER IV. 45
+XXV11.1>
+
+Si quae linearum, quas antea diximuS, in duobus
+punctis inter se contingunt, in alio puncto inter se
+non concurrunt.
+
+nam ex lineiS, quas diximuS, duae inter se in duo-
+bus punctis contingant A, Β. dico, eas in alio punc-
+to inter se non concurrere.
+
+nam si fieri potest, etiam in Γ concurrant, et Γ
+prius extra puncta contactus A, Β positum sit, du-
+canturque ab A, Β contingen-
+tes3 contingent igitur utram-
+que lineam. contingant et
+concurrant in A, ut in prima
+figura, ducaturque ΓΛ; ea
+igitur utramque sectionem se-
+cabit. secet in H, M, et
+ducatur ANB. itaque erit in
+altera sectione [III, 37] ΓΛ : A H = ΓΝ : NH, in altera
+autem ΓΛ : AM = ΓΝ z N M3 quod absurdum est.
+
+XXVIII.
+Sin ΓΗ rectis in A, B contingentibus parallela est, ut
+
+in ellipsi in secunda figura,
+ducta AB concludemuS, eam
+diametrum esse sectionum
+[II, 27]. quare utraque ΓΗ ,
+
+ΓΜ in N in binas partes
+aequales secabitur [I def. 4];
+
+ 
+
+ 
+
+quod absurdum est. ergo
+lineae in nullo alio puncto concurrent, sed in solis A, Β.
+
+ 
+
+1) Hanc propositionem in tres diuisi, ut numerus XLIII
+apud Eutooium suae responderet propositioni; nam ne pro-
+

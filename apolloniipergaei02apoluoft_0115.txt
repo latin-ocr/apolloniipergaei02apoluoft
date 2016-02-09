@@ -1,0 +1,42 @@
+CONIOORUM LIBER Ν. 23
+
+contingens ducatur ΔΒ. dico, rectam a Β rectae ΠΟ
+parallelam ductam per K, A cadere.
+
+nam si minUS, aut
+per alteru—trum eorum
+cadet aut per neutrum.
+
+cadat per K solum.
+itaque [HL 35]
+ZA:AH=ZX:XH;
+quod absurdum est.
+ergo recta a Β rectae
+ΠΟ parallela. ducta
+per K solum non
+cadet. ergo per utrumque cadet.
+
+ 
+
+XIV.
+
+Iisdem positis si punctum A in alterutra asym-
+ptotarum positum est, et AE sectionem in duobus
+punctis secat, AH autem alteri asymptotarum paral-
+lela in H sole, et fit EK: ΚΘ = ΔΕεΔΘ, ponitur-
+que in AH producta HA = AH, recta per K, A
+puncta ducta et asymptotae parallela erit et cum sec-
+
+, tione concurret, rectaque a puncto concursus ad A
+ducta sectionem continget.
+
+nam eodem modO, quo in praecedenti, ducta AB
+⁷ contingenti dico, rectam a B asymptotae ΠΟ par-
+allelam ductam per puncta K, A cadere.
+
+si igitur per K solum cadit, non erit AH = HA
+[III‚ 34]; quod absurdum est. sin per A solum cadit,
+non erit EA: ΔΘ = EK: ΚΘ [III, 35]. sin neque
+per K neque per A cadit, utrobique absurdum eueniet.
+ergo per utrumque cadetss
+

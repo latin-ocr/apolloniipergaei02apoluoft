@@ -1,0 +1,50 @@
+ 
+
+EUTOCII COMMENTARIA IN CONICA. 283
+
+Α, AB, ponanturque duae rectae inaequales AE, EZ,
+et EZ ad H producatur, ponaturque ZH= ΔΕ, et
+tota ΕΗ 1n Θ in duas partes aequales secetur, centrum
+⁸ autem circuli sumatur Κ, et a K ad AB perpen-
+
+’ dicularis ducatur et cum ambitu in A concurrat, per
+A autem rectae AB parallela ducatur AM, productaque
+¹ KA cum AM in M concurrat, et fiat
+
+&ZzZH=AM:MN,
+· =sitque ΛΞ-τ- AN, ducanturque NK, ΚΞ et pro-
+ducantur, circulusque expletus eas in Π, Ο secet,
+
+' ducaturque OPH.
+
+P quoniam igitur ΖΘ : ZH = AM: ΜΝ, componendo
+est oH: ΗΖ = AN: NM3 e contrario
+ZH: ΗΘ = NM: NA
+’ et ZH: HE = MN: ΝΞ, dirimendo
+ZH:ZE=NM:ME.
+et quoniam NA = ΛΞ, communis autem et perpen-
+
+³ dicularis AK, erit etiam [Eucl. I, 4] KN = ΚΞ.
+
+uerum etiam K Ο = ΚΠ 3 parallelae igitur sunt Ν Ξ,
+
+ἱ -ΟΠ, itaque similes sunt trianguli KMN‚ OKP et
+
+ 
+
+ᾗ ΚΜΞ, ΠΡΚ [Eucl. I, 293 I, 15]. quare
+1, KM : KP = MN: ΡΟ [Eucl. VI, 4].
+
+est autem etiam KM: KP = ΜΞ : ΠΡ [ib.]; quare
+., ctiam NM: ΡΟ = ΜΞε ΙΙΡ, et permutando
+ᾗ ΝΜεΜΞ-εΟΡεΡΠ.
+
+uerum NM:ME=HZ:ZE=AE:EZ et
+÷ 0P2PH=0P2:0P><PH;
+quare etiam AE: EZ = 01³2: OP>< PH. est autem
+OP>< PH = AP>< ΡΓ [Eucl. ΙΙΙ, 35]. ergo
+
+AE: EZ = 0P22AP>< PF.
+
+ 
+
